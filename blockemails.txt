@@ -15,3 +15,4 @@
 0.0.0.0 screenleap.com
 0.0.0.0 hotmail.com
 0.0.0.0 dyngate.com
+0.0.0.0 anydesk.com
