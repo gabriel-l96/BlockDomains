@@ -13,3 +13,5 @@
 0.0.0.0 gotomypc.com
 0.0.0.0 join.me
 0.0.0.0 screenleap.com
+0.0.0.0 hotmail.com
+0.0.0.0 dyngate.com
