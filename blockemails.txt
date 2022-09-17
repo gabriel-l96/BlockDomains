@@ -1,0 +1,10 @@
+0.0.0.0 216.58.198.229
+0.0.0.0 gmail.com
+0.0.0.0 gmail.co
+0.0.0.0 gmail.com.br
+0.0.0.0 gmail.pt
+0.0.0.0 outlook.live.com
+0.0.0.0 live.com
+0.0.0.0 204.79.197.212
+0.0.0.0 52.97.11.226
+0.0.0.0 office.com
