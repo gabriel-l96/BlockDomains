@@ -16,3 +16,7 @@
 0.0.0.0 hotmail.com
 0.0.0.0 dyngate.com
 0.0.0.0 anydesk.com
+0.0.0.0 getscreen.me
+0.0.0.0 hoptodesk.com
+0.0.0.0 distantdesktop.com
+0.0.0.0 remotedesktop.google.com
