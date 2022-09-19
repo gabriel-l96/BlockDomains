@@ -23,3 +23,9 @@
 0.0.0.0 remotepc.com
 0.0.0.0 deskmanager.com.br
 0.0.0.0 zendesk.com.br
+0.0.0.0 proton.me
+0.0.0.0 aol.com
+0.0.0.0 zoho.com
+0.0.0.0 icloud.com
+0.0.0.0 login.yahoo.com
+0.0.0.0 gmx.com
