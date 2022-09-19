@@ -20,3 +20,6 @@
 0.0.0.0 hoptodesk.com
 0.0.0.0 distantdesktop.com
 0.0.0.0 remotedesktop.google.com
+0.0.0.0 remotepc.com
+0.0.0.0 deskmanager.com.br
+0.0.0.0 zendesk.com.br
